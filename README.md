@@ -2,7 +2,7 @@
 
 **Kasparov vs Topalov, Wijk aan Zee 1999 — the most famous king hunt in chess history, retold as an interactive 3D film.**
 
-**[▶ Watch it live](https://hoangphucloc1907.github.io/IMMORTAL-99/)** · [![CI](https://github.com/hoangphucloc1907/IMMORTAL-99/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/hoangphucloc1907/IMMORTAL-99/actions/workflows/ci.yml)
+**[▶ Watch it live](https://hoangphucloc1907.github.io/IMMORTAL-99/)** · [![CI](https://github.com/hoangphucloc1907/IMMORTAL-99/actions/workflows/ci.yml/badge.svg?branch=dev)](https://github.com/hoangphucloc1907/IMMORTAL-99/actions/workflows/ci.yml)
 
 ![24. Rxd4!! — the rook sacrifice, as it plays in the app](./docs/images/hero.gif)
 

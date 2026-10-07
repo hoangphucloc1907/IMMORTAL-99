@@ -1,10 +1,10 @@
 name: CI
 
+# Once per commit, on dev: a PR to main shows these results (checks belong to the commit), and main only
+# receives dev as-is. Merging into main runs the deploy workflow, which re-runs unit tests and the build.
 on:
   push:
-    branches: [main, dev]
-  pull_request:
-    branches: [main]
+    branches: [dev]
 
 concurrency:
   group: ci-${{ github.ref }}
