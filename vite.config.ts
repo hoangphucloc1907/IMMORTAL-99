@@ -3,6 +3,8 @@ import react from '@vitejs/plugin-react';
 import path from 'path';
 
 export default defineConfig({
+  // GitHub Pages serves the site from /<repo>/ — the deploy workflow sets PAGES_BASE; dev and tests use /
+  base: process.env.PAGES_BASE ?? '/',
   plugins: [react()],
   resolve: {
     alias: {
