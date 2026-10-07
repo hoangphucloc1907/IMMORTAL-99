@@ -1,0 +1,9 @@
+dist
+node_modules
+package-lock.json
+src/experience/annotations.eval.json
+tests/__snapshots__
+docs
+*.md
+test-results
+playwright-report
