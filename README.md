@@ -2,6 +2,8 @@
 
 **Kasparov vs Topalov, Wijk aan Zee 1999 — the most famous king hunt in chess history, retold as an interactive 3D film.**
 
+**[▶ Watch it live](https://hoangphucloc1907.github.io/IMMORTAL-99/)** · [![CI](https://github.com/hoangphucloc1907/IMMORTAL-99/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/hoangphucloc1907/IMMORTAL-99/actions/workflows/ci.yml)
+
 ![24. Rxd4!! — the rook sacrifice, as it plays in the app](./docs/images/hero.gif)
 
 On 20 January 1999 Garry Kasparov gave up a rook on d4 and then chased Veselin Topalov's king from a7 across the whole board to e1. IMMORTAL-99 replays all 87 plies of that game in the browser as a five-act documentary — camera work, light and sound timed to the moves — and lets you stop at any point to study the position.
